@@ -1,7 +1,9 @@
 # lazy
 !! One point, this script is not an idea for me!!
 
-In the name of Allah
+..................................................................................................................................
+
+❤️In the name of Allah❤️
 
 All the horrible things like turning off the computer or opening the sites and ordering the CMD by dialing the number.
 
