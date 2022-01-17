@@ -9,6 +9,7 @@ All the horrible things like turning off the computer or opening the sites and o
 
 # WARNIG!
 If it does not run, download its web driver from the link below and hug it because it is needed to open sites.
+link https://github.com/mozilla/geckodriver/releases
 
 # Previw
 
